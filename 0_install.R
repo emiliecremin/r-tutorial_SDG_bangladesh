@@ -1,0 +1,5 @@
+install.packages("leaflet")
+install.packages("sf")
+install.packages("ggplot2")
+install.packages("dplyr")
+install.packages("stringr")
