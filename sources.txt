@@ -1,0 +1,22 @@
+Data sources:
+
+Bangladesh sub-national level boundaries shapefile
+https://data.humdata.org/dataset/cod-ab-bgd
+
+
+Bangladesh SDGs indicators sub-national level
+https://www.worldbank.org/en/news/feature/2022/03/14/spatial-database-indicators-by-sdg
+
+
+Documentation:
+https://cran.r-project.org/doc/manuals/r-release/R-intro.html
+https://www.rdocumentation.org/
+
+Tutorials:
+https://owi.usgs.gov/R/training-curriculum/intro-curriculum/Introduction/index.html
+https://geocompr.robinlovelace.net/index.html
+https://r4ds.had.co.nz/
+
+Questions:
+https://stackoverflow.com/questions/tagged/r
+https://gis.stackexchange.com/
